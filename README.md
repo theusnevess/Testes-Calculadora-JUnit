@@ -28,8 +28,13 @@ Escolha uma operação:
 1
 Digite o primeiro elemento da operação: 
 5
-Digite o segundo elemento da operação: 
+Digite o segundo elemento da operação:
 3
 Resultado: 8.0
+
+
+
+
+
 
 
